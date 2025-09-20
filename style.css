@@ -105,6 +105,7 @@ body {
 .hero-content h2 {
   font-size: 2rem;
   margin-bottom: 2rem;
+  min-height: 2.5rem; /* للحفاظ على ارتفاع ثابت للنص المتحرك */
 }
 
 .btn {
